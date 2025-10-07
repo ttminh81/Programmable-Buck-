@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=C1 Old Footprint=RB7.6-15 New Footprint=RB5-10.5
+Added Component: Designator=C4(RB7.6-15)
+Added Component: Designator=C5(RB7.6-15)
+Added Component: Designator=Q3(TO-247)
+Added Component: Designator=Q4(TO-247)
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_1 Pin=C5-1
+Added Pin To Net: NetName=NetC4_2 Pin=C5-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D1-3
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetC4_1 Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Pin To Net: NetName=NetQ3_1 Pin=Q4-1
+Added Pin To Net: NetName=NetC4_1 Pin=Q4-2
+Added Pin To Net: NetName=GND Pin=Q4-3
+Added Member To Class: ClassName=Sheet1 Member=Component C4 4700uF 50V
+Added Member To Class: ClassName=Sheet1 Member=Component C5 4700uF50v
+Add Class Member: Failed to add class member : Component D1 DIODE DUAL K
+Add Class Member: Failed to add class member : Component L1 Inductor
+Added Member To Class: ClassName=Sheet1 Member=Component Q3 IRFP250
+Added Member To Class: ClassName=Sheet1 Member=Component Q4 IRFP250

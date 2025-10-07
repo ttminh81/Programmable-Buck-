@@ -1,0 +1,8 @@
+Change Component Comment : Designator= Old Comment=MOSFET-N1 New Comment=MOSFET-N1B
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Class Member: Failed to add class member : Component C1 4700uF 16v
+Add Class Member: Failed to add class member : Component C2 4700uF 16v
+Added Member To Class: ClassName=Sheet1 Member=Component  MOSFET-N1B

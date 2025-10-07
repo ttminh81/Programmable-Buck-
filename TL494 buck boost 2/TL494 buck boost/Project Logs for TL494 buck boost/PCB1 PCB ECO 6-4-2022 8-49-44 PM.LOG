@@ -1,0 +1,29 @@
+Change Component Footprint: Designator=C3 Old Footprint=1005 New Footprint=CAPR5-4X5
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D1-3
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-2
+Add Pin To Net: Unknown Pin: Pin P1-3
+Add Pin To Net: Unknown Pin: Pin Q3-1
+Add Pin To Net: Unknown Pin: Pin Q3-2
+Add Pin To Net: Unknown Pin: Pin Q3-3
+Add Pin To Net: Unknown Pin: Pin Q4-1
+Add Pin To Net: Unknown Pin: Pin Q4-2
+Add Pin To Net: Unknown Pin: Pin Q4-3
+Add Class Member: Failed to add class member : Component C1 4700uF 16v
+Add Class Member: Failed to add class member : Component C2 4700uF 16v
+Add Class Member: Failed to add class member : Component C4 4700uF 50V
+Add Class Member: Failed to add class member : Component C5 4700uF50v
+Add Class Member: Failed to add class member : Component D1 DIODE DUAL K
+Add Class Member: Failed to add class member : Component P1 10k
+Add Class Member: Failed to add class member : Component Q3 IRFP250
+Add Class Member: Failed to add class member : Component Q4 IRFP250

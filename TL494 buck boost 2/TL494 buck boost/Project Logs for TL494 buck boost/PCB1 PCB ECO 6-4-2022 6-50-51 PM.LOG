@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=Sheet1 Member=Q3
+Added Component: Designator=(TO-247)
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Added Pin To Net: NetName=Net_1 Pin=-1
+Added Pin To Net: NetName=Net_1 Pin=R8-2
+Added Net: Name=Net_1
+Add Class Member: Failed to add class member : Component C1 4700uF 16v
+Add Class Member: Failed to add class member : Component C2 4700uF 16v
+Added Member To Class: ClassName=Sheet1 Member=Component  MOSFET-N1

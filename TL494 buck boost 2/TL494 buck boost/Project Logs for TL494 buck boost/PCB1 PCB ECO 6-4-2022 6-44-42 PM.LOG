@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=+12 Pin=Q?-2
+Removed Pin From Net: NetName=GND Pin=U?-9
+Removed Pin From Net: NetName=GND Pin=U?-10
+Removed Member From Class: ClassName=Sheet1 Member=Q?
+Added Component: Designator=Q1(SMD-23)
+Added Component: Designator=Q2(SMD-23)
+Added Component: Designator=Q3(TO-247)
+Added Component: Designator=R6(AXIAL0.4)
+Added Component: Designator=R7(AXIAL0.4)
+Added Component: Designator=R8(AXIAL0.4)
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Added Pin To Net: NetName=+12 Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=+12 Pin=U?-8
+Added Pin To Net: NetName=+12 Pin=U?-11
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R7-2
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=Q2-1
+Added Pin To Net: NetName=NetQ1_3 Pin=R8-1
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetQ3_GATE Pin=R8-2
+Added Net: Name=NetQ3_GATE
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=R7-1
+Added Pin To Net: NetName=NetR6_1 Pin=U?-9
+Added Pin To Net: NetName=NetR6_1 Pin=U?-10
+Added Net: Name=NetR6_1
+Add Class Member: Failed to add class member : Component C1 4700uF 16v
+Add Class Member: Failed to add class member : Component C2 4700uF 16v
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 BD139
+Added Member To Class: ClassName=Sheet1 Member=Component Q2 BD140
+Added Member To Class: ClassName=Sheet1 Member=Component Q3 MOSFET N
+Add Class Member: Failed to add class member : Component Q4 MOSFET N
+Added Member To Class: ClassName=Sheet1 Member=Component R6 2.2k
+Added Member To Class: ClassName=Sheet1 Member=Component R7 10
+Added Member To Class: ClassName=Sheet1 Member=Component R8 10

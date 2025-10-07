@@ -1,0 +1,8 @@
+Added Component: Designator=U?(DIP16)
+Added Pin To Net: NetName=+12 Pin=U?-12
+Added Net: Name=+12
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Pin To Net: NetName=GND Pin=U?-13
+Added Net: Name=GND
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
