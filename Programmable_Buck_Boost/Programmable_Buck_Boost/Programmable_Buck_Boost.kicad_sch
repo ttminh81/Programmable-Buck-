@@ -6749,10 +6749,6 @@
 		(uuid "ad95dd3f-6b4e-4143-99ae-7cddf11df5f2")
 	)
 	(no_connect
-		(at 289.56 226.06)
-		(uuid "c1dddcc2-6fe6-44bd-a842-5ab8045d7381")
-	)
-	(no_connect
 		(at 289.56 195.58)
 		(uuid "cca0a404-82dd-44b5-9aa0-2f7cd8f50e89")
 	)
@@ -6855,6 +6851,16 @@
 			(type default)
 		)
 		(uuid "06994025-8c44-4309-bbf4-9fcc03cf1208")
+	)
+	(wire
+		(pts
+			(xy 289.56 226.06) (xy 306.07 226.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "074bb19c-af6e-4c4d-8ead-dd05cf44b490")
 	)
 	(wire
 		(pts
@@ -7075,16 +7081,6 @@
 			(type default)
 		)
 		(uuid "1921f3c5-3389-4ac9-a4a5-2e3da2cfe9a9")
-	)
-	(wire
-		(pts
-			(xy 254 205.74) (xy 245.11 205.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1999a6e2-3f40-4f1d-8f89-3405cfd675a4")
 	)
 	(wire
 		(pts
@@ -10586,16 +10582,6 @@
 		)
 		(uuid "7db10018-dba3-4f6b-b8d6-503f0e4b0099")
 	)
-	(label "FAN_ON"
-		(at 245.11 205.74 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8422268a-b894-4b6f-ba78-d9ca30407636")
-	)
 	(label "SWCLK"
 		(at 306.07 223.52 180)
 		(effects
@@ -10675,6 +10661,16 @@
 			(justify right bottom)
 		)
 		(uuid "a7538989-ac35-4338-a245-37052f7e7826")
+	)
+	(label "FAN_ON"
+		(at 306.07 226.06 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "af3476d1-75c9-497d-a3a1-ae3172e0708f")
 	)
 	(label "I_PWM"
 		(at 236.22 223.52 0)
